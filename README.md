@@ -8,3 +8,5 @@ Our Automatic Watering System project aimed at providing a convenient solution f
 - Set watering schedules
 - Monitor soil moisture levels
 
+## Timeline developing
+- Duration: Approximately 2 months
